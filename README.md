@@ -14,6 +14,8 @@ I'm a **React Native Developer** with 4+ years of experience building cross-plat
 
 ### 📱 Live Apps on Google Play
 I’ve worked on several production-ready apps available on the Play Store. [Reach out to me on LinkedIn](https://www.linkedin.com/in/azka-bashir-4738831b0/) if you’d like links to my work or collaboration.
+
+
 🦅 Hawk Schools – School communication & student management app
 
   📲 [View on App Store](https://play.google.com/store/apps/details?id=com.hawkschool.hawklogix&pcampaignid=web_share)
@@ -32,7 +34,7 @@ I’ve worked on several production-ready apps available on the Play Store. [Rea
 
 🗺️ TSRoute – Driver routing & delivery tracking app
 
-📲 [View on Play Store & AppStore](https://apps.apple.com/gb/app/dindle/id1548506219)
+📲 [View on AppStore](https://apps.apple.com/us/app/tsroute/id1660040585)
 
 🧾 UBI Telehealth - Online doctor consultation & appointment booking
 
