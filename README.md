@@ -20,7 +20,7 @@ I’ve worked on several production-ready apps available on the Play Store. [Rea
 
   📲 [View on App Store](https://play.google.com/store/apps/details?id=com.hawkschool.hawklogix&pcampaignid=web_share)
  
-- 💬 **Dindle(Chat & Call App)** – Secure messaging with Jitsi Meet integration  
+💬 **Dindle(Chat & Call App)** – Secure messaging with Jitsi Meet integration  
 
   📲 [View on AppStore](https://apps.apple.com/gb/app/dindle/id1548506219)
 
